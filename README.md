@@ -14,7 +14,7 @@ Você pode acessar através do link: <https://denini08.github.io/testing-book/#/
 * [Docsify](https://docsify.js.org/#/) para gerar páginas estáticas.
 * [Mybinder](https://mybinder.org/) para interação das páginas usando JupterNotebook.
 
-### Requesitos
+### Requisitos
 
 * Node >= 10.
 * NPM >= 6.
