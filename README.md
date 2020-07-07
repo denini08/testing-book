@@ -47,7 +47,7 @@ O livro será executado em http://localhost:3000, caso a porta 3000 esteja em us
 
 Estamos usando o [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
 
-O arquivo .md é usado pelo docsify para gerar a pagina estática, então o adicionamos no diretório /docs/capitulos/.
+O arquivo .md é usado pelo docsify para gerar a página estática, então o adicionamos no diretório /docs/capitulos/.
 
 Enquanto o .ipynb serve para o notebook, então o adicionamos no diretório /jupter. O binder está apontado para este diretório. 
 
