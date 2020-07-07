@@ -45,11 +45,11 @@ E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em 
 
 ## Como Atualizar o Conteúdo
 
-Estamos [jupyter notebook](https://jupyter.org/try) para criar nossos conteudos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
+Estamos [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
 
 O arquivo .md é usado pelo docsify para gerar a pagina estática, então o adicionamos no diretório /docs/capitulos/.
 
-Enquanto o .ipynb serve para o notebook, então o adicinamos no diretório /jupter. O binder está apontado para este diretorio. 
+Enquanto o .ipynb serve para o notebook, então o adicinamos no diretório /jupter. O binder está apontado para este diretório. 
 
 ## Autores
 
