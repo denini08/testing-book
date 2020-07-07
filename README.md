@@ -2,21 +2,32 @@
 > Livro digital sobre Testes de Software para a disciplina IN0980/IF811 do Centro de Informatica da UFPE.
 
 [![NPM Version][npm-image]][npm-url]
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denini08/testing-book/master?filepath=%2Fdocs)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denini08/testing-book/master?filepath=%2Fjupter)
 
-Neste livro digital interativo abordaremos os temas pipipi popopo.
+Neste livro digital interativo abordaremos os temas X e Y.
+Você pode acessar atrvés do link: <https://github.com/denini08/testing-book>
 
 ## Instalação
 
-### Instalando o NPM
+### Ferramentas usadas
 
-Para instalar o NPM basta baixar e instalar o [Node.js](https://pt.wikipedia.org/wiki/Node.js) [CLICANDO AQUI](https://nodejs.org/) ou acessando este link : https://nodejs.org/
+* [Docsify](https://docsify.js.org/#/) para gerar páginas estáticas.
+* [Mybinder](https://mybinder.org/) para interação das páginas usando JupterNotebook.
 
-O NPM será instalado juntamente com o Node.js.
+### Requesitos
+
+* Node >= 10.
+* NPM >= 6.
+
+### Instalando o Node
+
+Para instalar o NPM basta baixar e instalar o [Node.js](https://pt.wikipedia.org/wiki/Node.js) acessando este link : https://nodejs.org/
+
+O NPM será instalado juntamente ao Node.js.
 
 ### Instalando as dependências
 
-Basta abrir o terminal do seu SO e executar o comando abaixo:
+Basta abrir o terminal de sua preferencia e executar o comando abaixo:
 
 ```bash
 npm install
@@ -31,6 +42,14 @@ npm run book
 ```
 
 E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possivel acessar o projeto uma outra porta informada pelo npm.
+
+## Como Atualizar o Conteúdo
+
+Estamos [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
+
+O arquivo .md é usado pelo docsify para gerar a pagina estática, então o adicionamos no diretório /docs/capitulos/.
+
+Enquanto o .ipynb serve para o notebook, então o adicinamos no diretório /jupter. O binder está apontado para este diretório. 
 
 ## Autores
 
