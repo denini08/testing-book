@@ -43,7 +43,7 @@ npm run book
 
 O livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso, será possível acessar o projeto outra porta informada pelo NPM.
 
-## Como Atualizar o Conteúdo
+## Como atualizar o conteúdo
 
 Estamos usando o [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
 
