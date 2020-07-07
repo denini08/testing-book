@@ -3,3 +3,23 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet sapien elementum, vestibulum mi consectetur, congue sapien. Cras gravida nulla vel tellus bibendum viverra eu et eros. Morbi luctus laoreet nibh. Curabitur in metus accumsan, ultricies orci aliquam, pharetra augue. Etiam lacinia risus ut nisi cursus, sed condimentum neque venenatis. Fusce sit amet urna rhoncus, ullamcorper purus viverra, eleifend libero. Nulla feugiat ligula enim, in aliquet ex fermentum in. Donec venenatis diam at nisi hendrerit, sit amet facilisis risus pellentesque. Morbi odio arcu, ullamcorper nec diam vel, finibus tincidunt sapien. Duis pharetra ante eu ligula viverra eleifend.
 
 Curabitur vel neque vitae mauris rhoncus gravida id ac lacus. Morbi interdum ligula massa, ut lobortis magna ornare in. Integer et nibh lorem. Proin ultricies erat quis mi pulvinar, in efficitur est lobortis. Duis et metus vel quam commodo porta id convallis augue. Donec eget mauris molestie, aliquam ex a, placerat ante. Pellentesque a leo sed turpis lobortis tristique. Curabitur sapien magna, faucibus eget nisl at, congue congue est. Nunc in consectetur tellus, tincidunt placerat leo.
+
+
+```python
+print('Testing book with python')
+```
+
+    Testing book with python
+
+
+Aliquam varius mi tellus, nec volutpat odio posuere eu. In hac habitasse platea dictumst. Mauris venenatis dolor vel tellus vehicula, vel molestie quam gravida. Integer volutpat posuere magna sed ornare. Phasellus sit amet dictum felis. Maecenas condimentum ultrices lorem, ac ullamcorper magna sodales id. Vestibulum euismod fringilla porta.
+
+
+
+```python
+import random
+print(random.randrange(10))
+```
+
+    8
+
