@@ -5,7 +5,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denini08/testing-book/master?filepath=%2Fjupter)
 
 Neste livro digital interativo abordaremos os temas X e Y.
-Você pode acessar através do link: <https://github.com/denini08/testing-book>
+Você pode acessar através do link: <https://denini08.github.io/testing-book/#/>
 
 ## Instalação
 
@@ -41,11 +41,11 @@ Para executar localmente o site do livro basta executar o comando abaixo:
 npm run book
 ```
 
-E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possívelpossível acessar o projeto outra porta informada pelo NPM.
+E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possível acessar o projeto outra porta informada pelo NPM.
 
 ## Como Atualizar o Conteúdo
 
-Estamos [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
+Estamos usando o [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos. Apos criar o capítulo, exportamos em dois formatos: Markdown (.md) e como documento de notebook (.ipynb). 
 
 O arquivo .md é usado pelo docsify para gerar a pagina estática, então o adicionamos no diretório /docs/capitulos/.
 
