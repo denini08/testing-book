@@ -35,13 +35,13 @@ npm install
 
 ## Executando o projeto
 
-Para executar localmente o site do livro basta executar o comando abaixo:
+Para executar localmente o site do livro, basta executar o comando abaixo:
 
 ```bash
 npm run book
 ```
 
-E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possível acessar o projeto outra porta informada pelo NPM.
+O livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso, será possível acessar o projeto outra porta informada pelo NPM.
 
 ## Como Atualizar o Conteúdo
 
