@@ -1,7 +1,5 @@
 # testing-book
 
-# testing-book
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet sapien elementum, vestibulum mi consectetur, congue sapien. Cras gravida nulla vel tellus bibendum viverra eu et eros. Morbi luctus laoreet nibh. 
 
 ## Subtitulo
