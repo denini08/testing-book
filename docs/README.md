@@ -39,16 +39,13 @@ print(random.randrange(10))
 
 
 
-```python
-display_yotube_video(https://www.youtube.com/embed/NnamjfPYuiY)
-```
-
-
-[Link externo aqui](https://github.com/)
-
-#### Assista esse video legal
-
-[![Watch the video](https://img.youtube.com/vi/rhE45ihB26E/sddefault.jpg)](https://www.youtube.com/watch?v=rhE45ihB26E)
+<iframe
+    width="800"
+    height="300"
+    src="https://www.youtube.com/embed/NnamjfPYuiY"
+    frameborder="0"
+    allowfullscreen
+></iframe>
 
 <!--
 [![Watch the video](https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg)](https://www.youtube.com/watch?v=<VIDEO ID>)
