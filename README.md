@@ -1,11 +1,11 @@
 # testing-book
-> Livro digital sobre Testes de Software para a disciplina IN0980/IF811 do Centro de Informatica da UFPE.
+> Livro digital sobre Testes de Software para a disciplina IN0980/IF811 do Centro de Informática da UFPE.
 
 [![NPM Version][npm-image]][npm-url]
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denini08/testing-book/master?filepath=%2Fjupter)
 
 Neste livro digital interativo abordaremos os temas X e Y.
-Você pode acessar atrvés do link: <https://github.com/denini08/testing-book>
+Você pode acessar através do link: <https://github.com/denini08/testing-book>
 
 ## Instalação
 
@@ -27,7 +27,7 @@ O NPM será instalado juntamente ao Node.js.
 
 ### Instalando as dependências
 
-Basta abrir o terminal de sua preferencia e executar o comando abaixo:
+Basta abrir o terminal de sua preferência e executar o comando abaixo:
 
 ```bash
 npm install
@@ -35,13 +35,13 @@ npm install
 
 ## Executando o projeto
 
-Para executar logcalmente o site do livro basta executar o comando abaixo:
+Para executar localmente o site do livro basta executar o comando abaixo:
 
 ```bash
 npm run book
 ```
 
-E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possivel acessar o projeto uma outra porta informada pelo npm.
+E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em uso será possívelpossível acessar o projeto outra porta informada pelo NPM.
 
 ## Como Atualizar o Conteúdo
 
@@ -49,7 +49,7 @@ Estamos [jupyter notebook](https://jupyter.org/try) para criar nossos conteúdos
 
 O arquivo .md é usado pelo docsify para gerar a pagina estática, então o adicionamos no diretório /docs/capitulos/.
 
-Enquanto o .ipynb serve para o notebook, então o adicinamos no diretório /jupter. O binder está apontado para este diretório. 
+Enquanto o .ipynb serve para o notebook, então o adicionamos no diretório /jupter. O binder está apontado para este diretório. 
 
 ## Autores
 
