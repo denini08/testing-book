@@ -23,3 +23,23 @@ print(random.randrange(10))
 
     8
 
+
+
+```python
+display_yotube_video(https://www.youtube.com/embed/NnamjfPYuiY)
+```
+
+
+
+
+
+<iframe
+    width="800"
+    height="300"
+    src="https://www.youtube.com/embed/NnamjfPYuiY"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
