@@ -8,15 +8,20 @@ Neste livro digital interativo abordaremos os temas X e Y.
 
 ## Instalação
 
-### Instalando o NPM
+### Requesitos
 
-Para instalar o NPM basta baixar e instalar o [Node.js](https://pt.wikipedia.org/wiki/Node.js) [CLICANDO AQUI](https://nodejs.org/) ou acessando este link : https://nodejs.org/
+* Node >= 10
+* NPM >= 6
 
-O NPM será instalado juntamente com o Node.js.
+### Instalando o Node
+
+Para instalar o NPM basta baixar e instalar o [Node.js](https://pt.wikipedia.org/wiki/Node.js) acessando este link : https://nodejs.org/
+
+O NPM será instalado juntamente ao Node.js.
 
 ### Instalando as dependências
 
-Basta abrir o terminal do seu SO e executar o comando abaixo:
+Basta abrir o terminal de sua preferencia e executar o comando abaixo:
 
 ```bash
 npm install
