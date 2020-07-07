@@ -1,0 +1,30 @@
+{
+  "name": "testing-book",
+  "version": "1.0.0",
+  "description": "Livro digital sobre Testes de Software para a disciplina IN0980/IF811 do Centro de Informatica da UFPE",
+  "main": "/docs/index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "book": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinoSaulo/testing-book.git"
+  },
+  "keywords": [
+    "testes"
+  ],
+  "author": "Saulo Barros e Denini Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinoSaulo/testing-book/issues"
+  },
+  "homepage": "https://github.com/DinoSaulo/testing-book#readme"
+}
