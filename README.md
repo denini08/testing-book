@@ -2,6 +2,7 @@
 > Livro digital sobre Testes de Software para a disciplina IN0980/IF811 do Centro de Informatica da UFPE.
 
 [![NPM Version][npm-image]][npm-url]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/denini08/testing-book/master?filepath=%2Fdocs)
 
 Neste livro digital interativo abordaremos os temas pipipi popopo.
 
@@ -33,7 +34,7 @@ E o livro será executado em http://localhost:3000, caso a porta 3000 esteja em 
 
 ## Autores
 
-Denini Gabriel – [@denini08](https://github.com/denini08) – xxx@cin.ufpe.br
+Denini Gabriel – [@denini08](https://github.com/denini08) – dgs@cin.ufpe.br
 
 Saulo Barros – [@dinosaulo](https://github.com/DinoSaulo) – sab2@cin.ufpe.br
 
